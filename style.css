@@ -50,7 +50,7 @@ nav{
 ul{
     display: flex;
     justify-content: space-between;
-    width: 25%;
+    width: 30%;
     color: hsl(0, 0%, 100%);
 }
 li{
@@ -338,5 +338,11 @@ footer{
     }
     #arrow-down{
         margin-top: 160px;
+    }
+    #footer-ul{
+        width: 100%;
+    }
+    #icons{
+        width: 50%;
     }
 }
